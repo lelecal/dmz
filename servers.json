@@ -7,5 +7,14 @@
       "port": 9171,
       "mapName": "bukovka"
     }
+  ],
+  "servers": [
+    {
+      "name": "EU-DMZ-1",
+      "motd": "\u00A7cDMZ \u00A7aReborn \u00A77- \u00A7fTEST",
+      "ip": "176.122.64.111",
+      "port": 10000,
+      "mapName": "bukovka"
+    }
   ]
 }
