@@ -1,8 +1,8 @@
 {
   "servers": [
     {
-      "name": "EU-DMZ-1",
-      "motd": "\u00A7cDMZ \u00A7aReborn \u00A77- \u00A7f",
+      "name": "EU-DMZ",
+      "motd": "\u00A7cDMZ \u00A7aReborn \u00A77- \u00A7fEU",
       "ip": "176.122.64.111",
       "port": 10000,
       "mapName": "bukovka"
